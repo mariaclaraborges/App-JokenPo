@@ -22,6 +22,10 @@ Este é um aplicativo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido em Flutt
 ## 📷 Capturas de Tela
 
 
+https://github.com/user-attachments/assets/2b92a837-871f-48e4-8047-5387e49294b9
+
+
+
 ---
 
 
